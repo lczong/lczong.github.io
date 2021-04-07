@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Licheng Zong
 
-You can use the [editor on GitHub](https://github.com/lczong/lczong.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a GPU engineer at SmartMore, and a senior student at the Xi'an Jiaotong University, where I major in Electronics and Information.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+At SmartMore I'm working on CUDA programming and Efficient Computing.
 
-### Markdown
+### Contact
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Email: licheng.zong [at] smartmore.com
 
-```markdown
-Syntax highlighted code block
+### Research Interest
 
-# Header 1
-## Header 2
-### Header 3
+* Efficient Computing
+* Acceleration of Neural Networks
 
-- Bulleted
-- List
+### Publication
 
-1. Numbered
-2. List
+Jingwen Fu, **Licheng Zong**, et. , Model Adaption Object Detection System for Robots, Chinese Control Conference (CCC), 2020.
 
-**Bold** and _Italic_ and `Code` text
+### Education
 
-[Link](url) and ![Image](src)
-```
+B.S. Electronics and Information, Xi'an Jiaotong University,  2017 - 2021
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Experience
 
-### Jekyll Themes
+#### Research Assistant | Chinese Academy of Sciences
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lczong/lczong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Aug 2019 - Feb 2020
+* Beijing, China
 
-### Support or Contact
+#### Research Assistant | National University of Singapore
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Jul 2019 - Aug 2019
+* Singapore
+
+#### Software Engineer Inter | Xi'an Jiaotong University Robocon Robotics Team
+
+* Jun 2018 - Jun 2019
+* Xi'an Shaanxi, China
+
+### Awards
+
+* The First Prize in National College Robot Competition (ROBOCON)
+*  'Meritorious Winner' in American Interdisciplinary Contest In Modeling 

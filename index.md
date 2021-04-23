@@ -1,8 +1,7 @@
 ## Licheng Zong
 
-I am a GPU engineer at SmartMore, and a senior student at the Xi'an Jiaotong University, where I major in Electronics and Information.
+I am a senior student at the Xi'an Jiaotong University, where I major in Electronics and Information.
 
-At SmartMore I'm working on CUDA programming and Efficient Computing.
 
 ### Contact
 
@@ -33,7 +32,7 @@ B.S. Electronics and Information, Xi'an Jiaotong University,  2017 - 2021
 * Jul 2019 - Aug 2019
 * Singapore
 
-#### Software Engineer Inter | Xi'an Jiaotong University Robocon Robotics Team
+#### Software Engineer Intern | Xi'an Jiaotong University Robocon Robotics Team
 
 * Jun 2018 - Jun 2019
 * Xi'an Shaanxi, China
